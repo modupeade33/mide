@@ -1,0 +1,80 @@
+.header{
+    color: black; 
+    background-color: white;
+    padding: 17px 193px;
+    margin-left: -97px;
+    margin-right: -97px;
+}
+
+
+.whole-body{
+    padding: 15px 100px;
+}
+
+.one a{
+    color: black; 
+    margin-left: 0px 10px; 
+    text-decoration: none;
+    font-size: 12;
+}
+
+.one{
+    float: right;
+    margin: 7px;
+}
+
+.two{
+    float: left; 
+    width: 12%;
+    padding: 0px 10px; 
+    background-color: white; 
+    margin: 12px 0px;
+}
+
+.all{
+    float: right; 
+        width: 80%; 
+        padding: 5px 5px;
+        background-color: white;
+        margin-top: 15PX;
+}
+
+#well {
+    width: 72%;
+    float: right;
+
+}
+
+img{
+    height: 200px; 
+    width: 200px; 
+}
+
+body{
+    margin: 0px; 
+    background-color: rgba(212, 198, 198, 0.925);
+}
+
+.boddd{
+        padding: 15px  100px;
+}
+
+#aa{
+    height: 30px; 
+    width: 30px;
+}
+
+#img-one{
+            height: 150px; 
+            width: 150px; 
+            border-radius: 75px;
+}
+
+#img2{
+        padding: 10px 10px;
+}
+
+#irregular {
+    font-size: 16px;
+    font-weight: 100;
+}
